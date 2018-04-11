@@ -1,0 +1,23 @@
+Intermediate 
+Police and intelligence agencies around the world have, for almost 100 years, used lie detectors to help convict criminals or find spies and traitors.
+But the polygraph could soon be defunct. Researchers in Britain and the Netherlands have developed a new method that has a success rate, in tests, of over 70%. This new method could be in use in police stations around the world within a decade. It doesnt monitor facial tics, talking too much or waving of arms, which are all signs that someone is lying. The new method monitors full-body motion, which can show that the person is feeling guilty.
+The polygraph is widely used in the US in criminal cases and for security clearance for the FBI and CIA but is much less popular in Europe. Many people in the scientific and legal communities do not believe that it is reliable. By contrast, the new method has performed well in experiments.
+The basic thought is that liars fidget more and so the use of an all-body motion suit  the kind used in films to create computer-generated characters  will record this. The suit has 17 sensors that register movement up to 120 times per second in three dimensions for 23 joints.
+One of the research team, Ross Anderson, professor of security engineering at Cambridge University, said that years of research show that an interviewer will know whether someone is telling the truth, and not lies, in only about 55 times out of 100
+He said the new method, by contrast, was right over 70% of the time. And he was confident they would be able to do better. In some tests, the team has already achieved more than 80%.
+Anderson said: Guilty people fidget more and we can measure this.
+Anderson added that the research had a special significance at this time because of a recent US Senate report on torture by the CIA. There are problems with torture from a moral point of view but it is also a very unreliable way of getting accurate information. We have known for a long time that torture does not work, Anderson said. The new method offers a good alternative to interviews.
+The research paper was written by Dr Sophie van der Zee of Cambridge University, Professor Ronald Poppe of Utrecht University, Professor Paul Taylor of Lancaster University and Anderson.
+The polygraph was created in 1921 by policeman John Larson. It records changes in pulse, blood pressure, sweating and breathing to find out whether someone is lying.
+In movies, the polygraph is always right, But, in 1998, the US Supreme Court ruled that there was no consensus that the polygraph was reliable. This conclusion was supported by the US National Academy of Scientists in 2003.
+The experiment carried out by Anderson and his colleagues involved 180 students and employees at Lancaster University  half of the people were told to tell the truth and half to lie. They were each paid 7.50 for their participation in the 70-minute experiment, involving two tests.
+Some were interviewed about a computer game Never End, which they played for seven minutes. Others lied about playing the game  they had only seen notes about it.
+The second test involved a lost wallet containing 5. Some were asked to bring the wallet to a lost-and-found box. Others hid it and lied about it.
+Overall, we correctly guessed whether 82.2% (truths: 88.9%; lies: 75.6%) of the interviewees were telling the truth or lying based on the movements in their individual limbs, the report says.
+Anderson said: First, we looked at how much different body parts showed that someone was lying. We found that liars wave their arms more, but this is only at the 60% level that you can get from a polygraph.
+The success came when we looked at total body motion. That tells truth from lies over 70% of the time and we believe we can improve it even more by combining it with optimal questioning techniques.
+Another advantage is that total body motion is mostly the same in people who have different cultural backgrounds and different levels of anxiety  these things confuse other lie-detection technologies, Anderson said.
+The use of all-body suits is expensive  they cost about 30,000  and they can be uncomfortable, so Anderson and his colleagues are now studying low-cost alternatives. These include using motion-sensing technology from computer games, such as the Kinect devices developed by Microsoft for the Xbox.
+Anderson admits that intelligence agencies such as the CIA could teach agents how to trick the full-body motion method by keeping their bodies completely still. But he said that in itself would be a giveaway.
+
+

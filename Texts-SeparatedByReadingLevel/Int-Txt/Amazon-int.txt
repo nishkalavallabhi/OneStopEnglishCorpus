@@ -1,0 +1,16 @@
+Intermediate
+When you see the word Amazon, whats the first thing you think of  the worlds biggest forest, the longest river or the largest internet shop  and which do you think is most important?
+These are questions in a debate about how to redraw the boundaries of the internet. Brazil and Peru have made objections to a bid made by the huge US e-commerce company for a prime new piece of cyberspace: .amazon.
+The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+Together with many other disputed claims to names, including .patagonia, the issue goes directly to the heart of debates about the purpose and governance of the internet.
+Until now, the differences between commercial, governmental and other types of identity were easy to see in every internet address by the use of .com, .gov and 20 other categories.
+But these categories  or generic top-level domains (gTLDs) as they are technically known  are about to see the biggest expansion since the start of the worldwide web.
+The Internet Corporation for Assigned Names and Numbers (ICANN)  a US-based non-profit organization that plays a key role in cyberspace governance  has received bids (each worth almost $200,000) for hundreds of new gTLDs to add to the existing 22.
+Amazon has applied for many new domains, including .shop, .song, .book and .kindle. But the one that has caused most discussion is its application is for its own brand.
+Brazil and Peru have asked for the .amazon application to be withdrawn. They say a private company should not be given a name that is also the name of an important geographical area, an area that runs through and across their territories and is also used for certain regions and cross-border organizations.
+Allowing private companies to register geographical names as gTLDs to strengthen their brand or to profit from the meaning of these names is not, in our view, in the public interest, the Brazilian Ministry of Science and Technology said.
+Brazil said its views were supported by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+There have been other objections over proposed top-level domains that take geographical, cultural or contested brand names.
+Argentina is unhappy that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament. Argentina rejects the .patagonia request for a new generic top-level domain. Patagonia is an important region for the countrys economy because it has oil, fishing, mining and agriculture resources. It is also a region with a vibrant local community and it is a major tourist destination.
+The contested proposals are expected to be discussed again at a meeting of ICANNs Governmental Advisory Committee in Durban in July. The first approved domain names will probably be in use before the end of 2013.
+
