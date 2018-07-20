@@ -1,10 +1,11 @@
 
-This repository will host the dataset described in the following paper:
+This repository hosts the dataset described in the following paper:
 
 > OneStopEnglish corpus: A new corpus for automatic readability assessment and text simplification  
-> authors: Sowmya Vajjala and Ivana Lučić  
-> (to appear) In the proceedings of The 13th Workshop on Innovative Use of NLP for Building Educational Applications, 2018  
-> (more details to come soon)
+> Sowmya Vajjala and Ivana Lučić  
+> 2018  
+> Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, pages 297–304. Association for Computational Linguistics.  
+> [url](http://aclweb.org/anthology/W18-0535). [bib file](https://aclanthology.coli.uni-saarland.de/papers/W18-0535/w18-0535.bib)
 
 Please cite the above paper if you use this corpus in your research.
 
