@@ -1,0 +1,14 @@
+﻿When you see the word Amazon, what’s the first thing you think of – the world’s biggest forest, the longest river or the largest internet shop – and which do you think is most important? 
+These are the questions in a debate about the internet. Brazil and Peru have made objections to a bid made by the US online shop for the domain name, “.amazon”. 
+Amazon has asked for its company name to be a top-level domain name (currently “.com”), but the South American governments say this would stop the use of this internet address for environmental protection, indigenous rights and other public interest uses. 
+There are many other disputed claims to names, including “.patagonia”. 
+Until now, the differences between commercial, governmental and other types of identity were easy to see in every internet address by the use of “.com”, “.gov” and 20 other categories. 
+But soon there are going to be more of these categories – or generic top-level domains (gTLDs) as they are technically known. 
+The Internet Corporation for Assigned Names and Numbers (ICANN) has had bids (each worth almost $200,000) for hundreds of new gTLDs to add to the 22 that we use already. 
+Amazon has applied for many new domains, including “.shop”, “.song ”, “.book” and “.kindle ”. But the one that has caused most discussion is its application for “.amazon”. 
+Brazil and Peru want the “.amazon” application to be stopped. They say that a private company should not have a name that is also the name of an important geographical area. 
+“Allowing private companies to register geographical names as gTLDs to profit from the meaning of these names is not, in our view, in the public interest,” the Brazilian Ministry of Science and Technology said. 
+Brazil said other members of the Amazon Cooperation Treaty support its views (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela). 
+There have also been other objections over new top-level domains that use geographical or cultural names. 
+Argentina is unhappy that the US outdoor clothing retailer, Patagonia, wants a domain name that has been known far longer as a region of spectacular beauty. “Argentina rejects the '.patagonia' request for a new generic top-level domain. Patagonia is an important region for the country’s economy because it has oil, fishing, mining and agriculture resources. It is also a major tourist destination.” 
+They will discuss the disputed bids again at a meeting of ICANN’s Governmental Advisory Committee in Durban in July. The first new domain names will probably be in use before the end of 2013.

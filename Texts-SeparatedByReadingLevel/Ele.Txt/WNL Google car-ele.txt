@@ -1,0 +1,16 @@
+﻿A car with a maximum speed of 25 miles per hour, two seats and no pedals or steering wheel does not sound very interesting. But Google, in the US, shocked the car and taxi industries when it unveiled the latest version of its driverless car. 
+Google has begun testing the electric car at its headquarters in Mountain View, California. The car does not have all the normal car controls, such as foot pedals. Instead, it has a smartphone app that calls it and tells it the destination, and a STOP button between the two seats in case the passengers need to override the computer. 
+The company is building about 100 prototypes for a two-year test. The company’s co-founder, Sergey Brin, said that the vehicle was still just a prototype. He says that they want to change the world for people who do not find it easy to travel around. 
+Talking about the car, he said, “You’re just sitting there; no steering wheel, no pedals. For me, it was very relaxing. About ten seconds after getting into the car, I forgot I was there. I found it really fun.” 
+Google says that the aim of the project is to improve safety. They say that the car is made with foam at the front and a plastic windscreen, so “it should be far safer than any other car for pedestrians”. 
+The cars have been built specially by a company in Detroit. Google will now test the cars, which are not yet for sale. 
+There need to be detailed scans of the roads before the cars can drive on them, because they cannot collect and process enough information in real time. 
+So far, there are detailed maps of about 2,000 miles of California’s roads, but California has more than 170,000 miles of roads. 
+Google says it wants to license the technology to traditional car makers when they have improved it. 
+But the idea that driverless cars will replace taxis with human drivers has alarmed some people. 
+Dennis Conyon from the UK National Taxi Association said that taxi drivers will become unemployed. 
+London has about 22,000 black taxis and Conyon thinks that the total number of people who drive taxis in the UK is about 100,000. 
+Other car makers, including Volvo, Ford and Mercedes, are going to make vehicles that will be different from Google’s version because they will have driver controls. 
+But Chris Urmson, director of the driverless car project at Google, said that the new prototypes do not have a steering wheel or brakes because a human passenger might not be able to take control in an emergency. He said that it was simpler just to have an emergency stop button. 
+Urmson said: “The vehicles will be very basic. But they will take you where you want to go at the push of a button. And, that’s an important step towards improving road safety and helping millions of people travel around more easily.” 
+So far, the Google versions of the driverless cars have driven 700,000 miles without an accident caused by the computer. The company says that thousands of people die each year on the roads and that about 80% of crashes are caused by human mistakes.
